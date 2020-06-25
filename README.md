@@ -1,0 +1,2 @@
+# destino-rico
+GitHub Pages
